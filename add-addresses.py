@@ -2,7 +2,7 @@
 #
 # Script:       add-addresses.py
 #
-# Author:       Chris Goodwin <chrisgoodwins@gmail.com>
+# 
 #
 # Description:  Create new address objects on a firewall or Panorama device
 #               group. The user will also have the option to add the objects
